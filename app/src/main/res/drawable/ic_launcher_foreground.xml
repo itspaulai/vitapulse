@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer soft mint halo ring -->
+    <path
+        android:fillColor="#2452F2A8"
+        android:pathData="M54,22C36.33,22 22,36.33 22,54C22,71.67 36.33,86 54,86C71.67,86 86,71.67 86,54C86,36.33 71.67,22 54,22ZM54,79C40.19,79 29,67.81 29,54C29,40.19 40.19,29 54,29C67.81,29 79,40.19 79,54C79,67.81 67.81,79 54,79Z" />
+    <!-- Bold filled heart + biometric pulse silhouette in Vitality Mint -->
+    <path
+        android:fillColor="#52F2A8"
+        android:pathData="M54,76.5L48.6,71.6C35.4,59.7 28,52.8 28,43.2C28,35.4 34.1,29.3 41.9,29.3C46.3,29.3 50.6,31.4 54,34.8C57.4,31.4 61.7,29.3 66.1,29.3C73.9,29.3 80,35.4 80,43.2C80,52.8 72.6,59.7 59.4,71.6L54,76.5Z" />
+    <!-- Deep forest carved ECG pulse line inside heart -->
+    <path
+        android:fillColor="#0A1410"
+        android:pathData="M31,51H43.5L47.8,41.2L53.2,59.8L58.4,46.5L61.8,51H77V55.2H59.7L57.8,52.2L52.8,65.2L47.2,46.8L45.1,55.2H31V51Z" />
+</vector>

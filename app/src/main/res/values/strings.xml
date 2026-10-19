@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VitalPulse</string>
+    <string name="tagline_local_intelligence">100% On-Device Health Connect × Gemma 4 E2B</string>
+    <string name="nav_pulse_dashboard">Pulse</string>
+    <string name="nav_gemma_chat">Discuss</string>
+    <string name="nav_insights_vault">Vault</string>
+    <string name="nav_model_hub">Gemma 4 E2B</string>
+    <string name="hc_status_connected">Health Connect Synced</string>
+    <string name="hc_status_permissions_needed">Permissions Needed</string>
+    <string name="hc_status_unavailable">Health Connect Unavailable</string>
+    <string name="gemma_status_ready">Gemma 4 E2B Ready</string>
+    <string name="gemma_status_loading">Loading LiteRT Engine…</string>
+    <string name="gemma_status_setup">Setup Gemma 4 E2B</string>
+    <string name="btn_grant_hc_permissions">Connect Health Connect</string>
+    <string name="btn_seed_hc_sample_data">Write Sample Records to Health Connect</string>
+    <string name="btn_pick_local_model">Select Local .litertlm File</string>
+    <string name="btn_download_model">Download Gemma 4 E2B (.litertlm)</string>
+    <string name="chat_input_placeholder">Ask Gemma 4 E2B about your heart, sleep, or steps…</string>
+    <string name="privacy_badge_text">100% Local LiteRT Inference • Zero Cloud Health Sync</string>
+</resources>

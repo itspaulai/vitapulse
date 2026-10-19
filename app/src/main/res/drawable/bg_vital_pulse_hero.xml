@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="360dp"
+    android:height="160dp"
+    android:viewportWidth="360"
+    android:viewportHeight="160">
+    <path android:pathData="M0,0h360v160h-360z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="360"
+                android:endY="160"
+                android:type="linear">
+                <item android:color="#D2FAE5" android:offset="0.0" />
+                <item android:color="#E8FBF0" android:offset="0.55" />
+                <item android:color="#C2F5DA" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Soft organic M3 Expressive shapes -->
+    <path
+        android:fillColor="#4052F2A8"
+        android:pathData="M305,24m-85,0a85,85 0,1 1,170 0a85,85 0,1 1,-170 0" />
+    <path
+        android:fillColor="#26FF8A75"
+        android:pathData="M55,142m-60,0a60,60 0,1 1,120 0a60,60 0,1 1,-120 0" />
+    <!-- Subtle flowing pulse line -->
+    <path
+        android:strokeColor="#38006B44"
+        android:strokeWidth="2.5"
+        android:pathData="M-10,120 C60,85 110,138 175,96 C240,54 285,120 370,68" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "summary": "Implementation plan for VitalPulse AI: a 100% local Android health companion connecting Android Health Connect with on-device Gemma 4 E2B via LiteRT-LM, styled with Material Design 3 Expressive (Vitality Mint & Deep Forest) and backed by a local Room database for chat sessions and pinned insights.",
+  "updatedAt": "2026-10-19T11:35:51.922934724Z",
+  "requestFeedback": true,
+  "userFacing": true
+}

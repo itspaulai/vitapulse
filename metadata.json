@@ -1,0 +1,6 @@
+{
+  "name": "VitalPulse",
+  "description": "100% local Android Health Connect & Gemma 4 E2B LiteRT wellness intelligence companion with Material Design 3 Expressive UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
